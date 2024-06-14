@@ -1,0 +1,1 @@
+Hello, world! This is a sample text file-1 created using VS Code. I am excited to learn more about Git and version control. Stay tuned for more updates!
